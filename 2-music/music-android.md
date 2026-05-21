@@ -2,11 +2,14 @@
 
 ::: info 📥 资源下载
 **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1BYcnryaYnHdAd9mvUhRQwg?pwd=musi)
+
+**夸克网盘**：[点击跳转保存](https://pan.quark.cn/s/537d14d29281)
+
 :::
 
-## ✨ 最近更新 (2026-04-25)
+## ✨ 最近更新 (2026-05-21)
 
-* **基于B站实现的音乐客户端** 👉 **bilimusic** 🌟 `GitHub大神开发` [点击跳转保存](https://pan.baidu.com/s/1WYpt6mjmB4Htb5lvh5Foog?pwd=52pj)
+* **基于B站实现的音乐客户端** 👉 **bilimusic** 🌟 `GitHub大神开发` [百度下载](https://pan.baidu.com/s/1WYpt6mjmB4Htb5lvh5Foog?pwd=52pj)  [夸克下载](https://pan.quark.cn/s/4c14e4f28aea)
 
 ## 🎵 特别推荐：
 
