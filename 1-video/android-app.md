@@ -15,9 +15,9 @@ Tips: 百度网盘手机下载时，可以先把软件的后缀apk改成txt，�
 
 | 软件名称 | 软件简介 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- | :--- |
-| **橘汁3.0.2.1** | **4K 无广** | 5.16✨ | [下载](https://pan.baidu.com/s/16eO0KdFyxDmLUrNmR9VtEw?pwd=r1gf) | [下载](https://pan.quark.cn/s/134994b6602a) |
-| **Sparkle** | **番剧 4K 壁纸** | 5.14 | [下载](https://pan.baidu.com/s/18sU_yxFGb-hHtshDT49Xdg?pwd=6p68) | [下载](https://pan.quark.cn/s/f2932a07b6e3) |
-| **OK影视** | **需手动配置源** | 5.14 | [下载](https://pan.baidu.com/s/1DIRcW94tqn8Px7YUg-dGsA?pwd=ri7k) | [下载](https://pan.quark.cn/s/286b5d35ce44) |
+| **Sparkle0.3.2** | **4K 番剧** | 5.23✨ | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.quark.cn/s/ec0915154451) |
+| **OK影视5.5.2** | **手动配置源** | 5.23✨ | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.quark.cn/s/7bdc76a5ccf0) |
+| **橘汁3.0.2.1** | **4K 无广** | 5.16 | [下载](https://pan.baidu.com/s/16eO0KdFyxDmLUrNmR9VtEw?pwd=r1gf) | [下载](https://pan.quark.cn/s/134994b6602a) |
 | **追剧达人** | **4K 无广** | 5.11 | [下载](https://pan.baidu.com/s/1taTZKxeYtk7awybY0xu2Pw?pwd=qdhy) | [下载](https://pan.quark.cn/s/82fea4204428) |
 | **PiliPlus** | **哔哩第三方** | 5.11 | [下载](https://pan.baidu.com/s/1yW91z6hZBjIR0lOXFMA2Rw?pwd=jruy) | [下载](https://pan.quark.cn/s/eed4641f8b01) |
 
