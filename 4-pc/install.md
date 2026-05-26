@@ -1,10 +1,9 @@
 # 💻 电脑装机软件
 
 ::: info 📥 资源下载
-**百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1Ew_AlmWyBR4oFe4RSplVZg?pwd=52pj)
+**百度网盘合集**：[点击跳转保存](https://pan.baidu.com/s/1Ew_AlmWyBR4oFe4RSplVZg?pwd=52pj)
 :::
 
----
 ## ✨ 最近更新 (2026-5-20)
 
 * **Office一键安装卸载** 👉 **Mocreak** 🌟 [点击跳转保存](hhttps://pan.baidu.com/s/1aOW1AoWdrtnDwmc2dec-vw?pwd=iwt7)

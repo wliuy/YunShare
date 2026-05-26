@@ -1,11 +1,12 @@
 # 🎬 安卓 Android 观影
 
 ::: info 📥 资源下载
+
 * **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1v_-KTZq9vchmBvQM9raHNg?pwd=52pj)
 * **夸克网盘**：[点击跳转保存](https://pan.quark.cn/s/1cfce8dca971)
 
+**🚨🚨 建议保存此链接，打开网盘更新提醒 🚨🚨**
 
-Tips: 百度网盘手机下载时，可以先把软件的后缀apk改成txt，会有加速效果。
 :::
 ---
 #### 💡绿化版软件由于官方封锁可能不定时失效，请下载新日期版本。

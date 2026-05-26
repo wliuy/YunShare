@@ -1,5 +1,9 @@
 # 🌐 在线影视网站
 > 聚合全网优质在线影视与下载资源，点击名称或链接即可直接跳转。
+
+
+### 🌈 PPnix：[https://www.ppnix.com/cn/](https://www.ppnix.com/cn/)
+---
 ### 🌈 冬瓜TV：[https://dg.89729981.xyz](https://dg.89729981.xyz)
 ---
 ### 🌈 影牛🐮 ：[https://moovie.c2v2.com](https://moovie.c2v2.com/)

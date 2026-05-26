@@ -1,9 +1,11 @@
 # 📺 电视端影视资源
 
 ::: info 📥 资源下载
-**百度网盘：**[点击跳转保存](https://pan.baidu.com/s/1ieJPp83G7iMCNr_mMUNcmQ?pwd=52pj)
+* **百度网盘：**[点击跳转保存](https://pan.baidu.com/s/1ieJPp83G7iMCNr_mMUNcmQ?pwd=52pj)
 
-**夸克网盘：**[点击跳转保存](https://pan.quark.cn/s/665e04a22a27)
+* **夸克网盘：**[点击跳转保存](https://pan.quark.cn/s/665e04a22a27)
+
+**🚨🚨 建议保存此链接，打开网盘更新提醒 🚨🚨**
 :::
 ---
 > **特别推荐：**

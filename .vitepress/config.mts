@@ -230,7 +230,7 @@ export default defineConfig({
           { text: '安卓影视 🔥', link: '/1-video/android-app' },
           { text: '苹果影视 💫', link: '/1-video/iPhone-app' },
           { text: '影视网站', link: '/1-video/web-sites' },
-          { text: '电视APP', link: '/1-video/tv-app' },
+          { text: '电视 TV', link: '/1-video/tv-app' },
         ]
       },
       {
@@ -275,7 +275,7 @@ export default defineConfig({
       },
       { 
         icon: { svg: '<svg viewBox="0 0 24 24"><text x="0" y="18" font-size="20">📕</text></svg>' }, 
-        link: 'https://www.xiaohongshu.com/user/profile/691d31df000000003202b636' 
+        link: 'https://www.xiaohongshu.com/user/profile/69781fd2000000001d01ad88' 
       },
       { 
         icon: { svg: '<svg viewBox="0 0 24 24"><text x="0" y="18" font-size="20">🎵</text></svg>' }, 

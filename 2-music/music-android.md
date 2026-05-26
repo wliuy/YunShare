@@ -1,9 +1,9 @@
 # 📱 安卓手机音乐
 
 ::: info 📥 资源下载
-**百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1BYcnryaYnHdAd9mvUhRQwg?pwd=musi)
+* **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1BYcnryaYnHdAd9mvUhRQwg?pwd=musi)
 
-**夸克网盘**：[点击跳转保存](https://pan.quark.cn/s/537d14d29281)
+* **夸克网盘**：[点击跳转保存](https://pan.quark.cn/s/537d14d29281)
 
 :::
 
