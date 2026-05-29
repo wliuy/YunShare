@@ -16,8 +16,9 @@
 
 | 软件名称 | 软件简介 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- | :--- |
-| **Sparkle0.3.2** | **4K 番剧** | 5.23✨ | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.quark.cn/s/ec0915154451) |
-| **OK影视5.5.2** | **手动配置源** | 5.23✨ | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.quark.cn/s/7bdc76a5ccf0) |
+| **彩虹视频** | **4K 无广** | 5.29✨ | [下载](https://pan.baidu.com/s/1wDEJ_qY1RlnT8_7XUbrSkA?pwd=xadr) | [下载](https://pan.quark.cn/s/8e709d923b2b) |
+| **Sparkle0.3.3** | **4K 番剧** | 5.29✨ | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.quark.cn/s/ec0915154451) |
+| **OK影视5.5.2** | **手动配置源** | 5.23 | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.quark.cn/s/7bdc76a5ccf0) |
 | **橘汁3.0.2.1** | **4K 无广** | 5.16 | [下载](https://pan.baidu.com/s/16eO0KdFyxDmLUrNmR9VtEw?pwd=r1gf) | [下载](https://pan.quark.cn/s/134994b6602a) |
 | **追剧达人** | **4K 无广** | 5.11 | [下载](https://pan.baidu.com/s/1taTZKxeYtk7awybY0xu2Pw?pwd=qdhy) | [下载](https://pan.quark.cn/s/82fea4204428) |
 | **PiliPlus** | **哔哩第三方** | 5.11 | [下载](https://pan.baidu.com/s/1yW91z6hZBjIR0lOXFMA2Rw?pwd=jruy) | [下载](https://pan.quark.cn/s/eed4641f8b01) |
