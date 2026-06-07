@@ -10,30 +10,32 @@
 ---
 > **特别推荐：**
 
-| 软件名称 (网盘对应) | 经典特色 |
-| :--- | :--- |
-| **DongYuTvWe** | 电视直播，自带webview源，蓝光 💎 |
-| **蜂巢直-Pro (TV版)** | 电视直播软件 |
-| **开心TV2.5** | 电视点播软件，Tvbox纯净版，自带源，也可导入 |
-| **云影空蒙** | 兼容性比较好的webview直播软件，需手动导入源 |
+| 软件名称 (网盘对应) | 经典特色 | 备注 |
+| :--- | :--- | :--- |
+| **DongYuTv** | 直播 自带源 💎 | [百度](https://pan.baidu.com/s/1BeevjlfPtqfrImgK9b2jaA?pwd=28dv) [夸克](https://pan.quark.cn/s/9371f6a6390b)  |
+| **FM影视** | 点播 需导入Tvbox源 | [百度](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) [夸克](https://pan.quark.cn/s/7bdc76a5ccf0) | 
+| **蜂巢直-Pro (TV版)** | 直播 |  |
+| **开心TV2.5** | 点播 自带源 |   |
+| **云影空蒙** | 直播 需导入源 | 20260607  |
 
-### 📺 webview直播源：
+### 📺 云影空蒙直播源：
 **源导入路径**：`首页` -> `推送` -> `填入源名称与链接` -> `添加订阅源`
   复制以下链接，通过 APP 提供的扫码或网页推送功能填入：
  * **电报分享源：** `https://my.yang.pp.ua/webview1.txt`
  * **站长自建源：** `https://my.yang.pp.ua/webv.txt`
 ---
 
-### 📺 **Tvbox源（点播、直播）源导入路径**：`设置` -> `点播`
+### 📺 Tvbox源
+**源导入路径**：`设置` -> `点播`
   复制以下链接填入：
  
  * **饭太硬：** `http://www.饭太硬.net/tv`
  * **饭太硬备用1：** `http://fty.xxooo.cf/tv`
- * **饭太硬备用2：** `https://raw.atomgit.com/xxxooo/fan/blobs/cef5f441c422cffe4852e0fc8b102f9be6d2bb2b/in.bmp`
-
  * **宫殿在线源：** `https://gongdian.top/fongmi/gongdian`
  * **站长自建：** `https://my.yang.pp.ua/tvbox.json`
  * **开心：** `https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/omg.json`
  * **OK猫：** `http://ok521.top/tv`
 
-#### 🌈 其他源汇总网站：[https://cyuan.netlify.app/](https://cyuan.netlify.app/)
+#### 🌈 其他源汇总：[https://www.89729981.xyz/posts/yingshi/yingshiyuan/](https://www.89729981.xyz/posts/yingshi/yingshiyuan/)
+#### 🌈 其他源汇总：[https://cyuan.netlify.app/](https://cyuan.netlify.app/)
+
