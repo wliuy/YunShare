@@ -1,4 +1,4 @@
-// Version: 3.16.0 - 强化 PC 端百度 SEO | 手机端全站搜索位绝对对齐 | 社交矩阵 Emoji 版
+// Version: 3.16.3 - 优化手机端按键比例：减小气泡宽度，增大垂直间距
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
@@ -118,7 +118,7 @@ export default defineConfig({
         .is-sub-page .VPNavBarTitle .title::after { display: none !important; }
       }
 
-      /* 🌟 [6] 首页布局逻辑 (保持全屏居中) */
+      /* 🌟 [6] 首页布局逻辑 (修复塌陷，极简宽气泡) */
       .is-home-page .VPHome {
         margin: 0 !important;
         padding: 0 !important;
@@ -131,36 +131,70 @@ export default defineConfig({
       }
       .is-home-page .VPHero { display: none !important; }
 
-      .is-home-page .VPFeatures .items {
-        display: inline-flex !important;
-        flex-direction: column !important;
-        align-items: stretch !important;
-        grid-template-columns: none !important;
-        width: auto !important;
+      /* 核心修复：强行将网格容器宽度撑满 100%，防止被挤压成竖条 */
+      .is-home-page .VPFeatures,
+      .is-home-page .VPFeatures .container {
+        width: 100% !important;
+        padding: 0 !important;
         margin: 0 auto !important;
-        gap: 14px !important;
+        display: block !important;
+      }
+
+      /* 核心：强制开启双列网格 */
+      .is-home-page .VPFeatures .items {
+        display: grid !important;
+        grid-template-columns: repeat(2, 1fr) !important; /* 稳稳的两列 */
+        width: 100% !important;
+        max-width: 800px !important; /* 极简气泡不用拉太宽，聚焦居中 */
+        margin: 0 auto !important;
+        gap: 24px 20px !important; /* 垂直间距默认拉开到 24px */
+        padding: 0 20px !important;
+      }
+
+      /* 防止子项塌陷 */
+      .is-home-page .VPFeatures .item {
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 0 !important;
       }
 
       .is-home-page .VPFeature {
         width: 100% !important;
-        min-width: max-content !important;
         border: 1px solid var(--vp-c-divider) !important;
         background-color: var(--vp-c-bg-soft) !important;
         border-radius: 16px !important;
-        display: flex !important;
+        display: block !important;
+        transition: border-color 0.25s, background-color 0.25s !important;
+        padding: 0 !important;
+        margin: 0 !important;
+      }
+      .is-home-page .VPFeature:hover {
+        border-color: var(--vp-c-brand) !important;
       }
 
+      /* 气泡盒子对齐设定 */
       .is-home-page .VPFeature .box {
         display: flex !important;
         align-items: center !important;
         justify-content: center !important;
         width: 100% !important;
+        padding: 0 !important; 
+        margin: 0 !important;
         white-space: nowrap !important;
       }
-      .is-home-page .VPFeature .title { font-weight: 800 !important; }
-      .is-home-page .VPFeature .icon, .is-home-page .VPFeature .details { display: none !important; }
+      
+      .is-home-page .VPFeature .title { 
+        font-weight: 800 !important; 
+        margin: 0 !important; 
+      }
+      
+      /* 强制极简：彻底隐藏图标和多余的描述文字 */
+      .is-home-page .VPFeature .icon, 
+      .is-home-page .VPFeature .details { 
+        display: none !important; 
+      }
 
-      /* 💻 电脑端布局（仅首页搜索框靠右，子页保持默认） */
+      /* 💻 电脑端布局 */
       @media (min-width: 960px) {
         .VPNavBarMenu { display: none !important; }
         .is-home-page .VPNavBarSearch {
@@ -168,35 +202,46 @@ export default defineConfig({
           display: flex !important;
           justify-content: flex-end !important;
         }
-        .is-home-page .VPFeatures .items { gap: 24px !important; }
-        .is-home-page .VPFeature .box {
-          height: 90px !important;
-          padding: 0 100px !important;
+
+        /* 👇 就是加下面这一段，专门控制电脑端气泡的宽度 👇 */
+        .is-home-page .VPFeatures .items { 
+          max-width: 600px !important; /* 👈 修改这里！默认是800px。改成600px气泡就会变窄，改成1000px就会变宽 */
+          gap: 50px 40px !important;
         }
-        .is-home-page .VPFeature .title { font-size: 32px !important; }
+
+        .is-home-page .VPFeature .box {
+          height: 90px !important; /* PC 端气泡高度 */
+        }
+        .is-home-page .VPFeature .title { font-size: 24px !important; }
       }
 
-      /* 📱 手机端布局：首页与子页搜索位绝对一致 */
+      /* 📱 手机端布局 (针对截图进行间距与宽度优化) */
       @media (max-width: 959px) {
-        /* 核心：确保手机端全站搜索图标都占据剩余空间并向右对齐，位置固定 */
+      /* 👇 新增这一段：控制手机端整体向上对齐 👇 */
+        .is-home-page .VPHome {
+          justify-content: flex-start !important; /* 核心：从居中改为向上对齐 */
+          padding-top: 40px !important;           /* 距离顶部导航栏的留白空间 */
+        }
         .VPNavBarSearch {
           flex-grow: 1 !important;
           display: flex !important;
           justify-content: flex-end !important;
           padding-right: 0px !important;
-          order: 10 !important; /* 强制其排在最右侧 */
+          order: 10 !important; 
         }
 
+        .is-home-page .VPFeatures .items {
+          gap: 40px 30px !important;  /* 【核心修改】：垂直行间距增大到 24px，拉开上下距离 */
+          padding: 0 50px !important; /* 【核心修改】：左右留白拉大到 36px，把按钮往中间挤压，变窄变精致 */
+        }
         .is-home-page .VPFeature .box {
-          height: 64px !important;
-          padding: 0 50px !important;
+          height: 64px !important; /* 高度稍微收一点，配合变窄的宽度，比例才不会显得像方块 */
         }
-        .is-home-page .VPFeature .title { font-size: 20px !important; }
+        .is-home-page .VPFeature .title { font-size: 17px !important; }
 
-        /* 社交图标排在搜索左侧，不破坏搜索的最右定位 */
         .is-sub-page .VPNavBarSocialLinks {
           display: flex !important;
-          order: 5 !important; /* 序号小于搜索框的 10，使其在左侧排列 */
+          order: 5 !important;
           margin-right: 5px !important;
         }
         .is-sub-page .VPNavBarSocialLinks a {
@@ -228,7 +273,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '安卓影视 🔥', link: '/movie/v-android' },
-          { text: '苹果影视 💫', link: '/movie/v-ios' },
+          { text: '苹果影视', link: '/movie/v-ios' },
           { text: '影视网站', link: '/movie/v-sites' },
           { text: '电视 TV', link: '/movie/v-tv' },
         ]
@@ -245,7 +290,7 @@ export default defineConfig({
         text: '📱 手机APP',
         collapsed: false,
         items: [
-          { text: '安卓常用', link: '/android/a-changyong' },
+          { text: '安卓好软 💫', link: '/android/a-changyong' },
           { text: 'Root 相关', link: '/android/root' }
         ]
       },
@@ -253,9 +298,8 @@ export default defineConfig({
         text: '💻 电脑分类',
         collapsed: false,
         items: [
-          { text: '电脑常用', link: '/pc/pc-changyong' },
+          { text: '电脑好软 🔥', link: '/pc/pc-changyong' },
           { text: '装机软件', link: '/pc/pc-install' },
-          { text: '系统盘镜像', link: '/pc/pc-os' }
         ]
       },
       {
