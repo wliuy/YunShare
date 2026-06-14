@@ -2,23 +2,26 @@
 
 ::: info 📥 资源下载
 * **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1BYcnryaYnHdAd9mvUhRQwg?pwd=musi)
-
-* **夸克网盘**：[点击跳转保存](https://pan.quark.cn/s/537d14d29281)
+* **夸克网盘**：[点击跳转保存](https://pan.89729981.xyz/s/azyy)
 
 :::
+> 💥 精品推荐：
 
-## ✨ 最近更新 (2026-05-23)
+| 软件名称 | 软件简介 | 下载 |
+| :--- | :--- | :--- |
+| **酷我音乐** | **解锁会员 手机 车机** | [下载](https://www.89729981.xyz/posts/music/kuwo/) |
+| **MusicKiller** | **安卓 PC 双平台** | [下载](https://www.89729981.xyz/posts/music/musickiller/) |
+| **bilimusic** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic/) |
+| **水獭音乐** | **聚合全网音源** | [下载](https://www.89729981.xyz/posts/music/ottermusic/) |
+| **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
 
-* **基于B站实现** 👉 **bilimusic** 🌟[百度下载](https://pan.baidu.com/s/1WYpt6mjmB4Htb5lvh5Foog?pwd=52pj)  [夸克下载](https://pan.quark.cn/s/4c14e4f28aea)
-* **GitHub大神作品** 👉 **水獭音乐** 🌟[百度下载](https://pan.baidu.com/s/1KcgFPCeyvVyaAaI3s-LLDg?pwd=52pj)  [夸克下载](https://pan.quark.cn/s/e04eeb11cf86)
+> 💫 最近更新：
 
-## 🎵 特别推荐：
-
-📀 **音悦** 👉 全网音乐：可绑定网易云、QQ音悦、导入酷狗、酷我歌单
-
-📀 **云音Music** 👉 全网音乐
-
-📀 **酷我音乐绿化版** 👉 聆听会员音乐 手机版、车机版、车机共存版
+| 软件名称 | 更新日期 | 度盘 | 夸克 |
+| :--- | :--- | :--- | :--- |
+| **云眠音乐** | 2026.06.14 | [下载](https://pan.baidu.com/s/1if37ZW0yZbamQPKm7lonbw?pwd=9rhr) | [下载](https://pan.89729981.xyz/s/ymyy) |
+| **音悦** | 2026.04.10 | [下载](https://pan.baidu.com/s/17IMgPfi_zTxZwKnVWQWtXQ?pwd=eriv) | [下载](https://pan.89729981.xyz/s/yyzxx) |
+| **云音Music** | 2026.04.10 | [下载](https://pan.baidu.com/s/1uaG7yr-Flxdie86y4GrMEw?pwd=aaky) | [下载](https://pan.89729981.xyz/s/yymusic) |
 
 ---
 ### ✨ MusicFree
@@ -36,4 +39,3 @@
 * **六音：**`https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/sixyin/latest.js`
 * **野草：**`https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/grass/latest.js`
 * **ikun音源：**`https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/ikun/latest.js`
-

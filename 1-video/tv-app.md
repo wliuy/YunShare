@@ -3,7 +3,7 @@
 ::: info 📥 资源下载
 * **百度网盘：**[点击跳转保存](https://pan.baidu.com/s/1ieJPp83G7iMCNr_mMUNcmQ?pwd=52pj)
 
-* **夸克网盘：**[点击跳转保存](https://pan.quark.cn/s/665e04a22a27)
+* **夸克网盘：**[点击跳转保存](https://pan.89729981.xyz/s/TV)
 
 **🚨🚨 建议保存此链接，打开网盘更新提醒 🚨🚨**
 :::
@@ -12,8 +12,8 @@
 
 | 软件名称 (网盘对应) | 经典特色 | 备注 |
 | :--- | :--- | :--- |
-| **DongYuTv** | 直播 自带源 💎 | [百度](https://pan.baidu.com/s/1BeevjlfPtqfrImgK9b2jaA?pwd=28dv) [夸克](https://pan.quark.cn/s/9371f6a6390b)  |
-| **FM影视** | 点播 需导入Tvbox源 | [百度](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) [夸克](https://pan.quark.cn/s/7bdc76a5ccf0) | 
+| **DongYuTv** | 直播 自带源 💎 | [百度](https://pan.baidu.com/s/1BeevjlfPtqfrImgK9b2jaA?pwd=28dv) [夸克](https://pan.89729981.xyz/s/dongyu)  |
+| **FM影视** | 点播 需导入Tvbox源 | [百度](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) [夸克](https://pan.89729981.xyz/s/fmyingshi) | 
 | **蜂巢直-Pro (TV版)** | 直播 |  |
 | **开心TV2.5** | 点播 自带源 |   |
 | **云影空蒙** | 直播 需导入源 | 20260607  |

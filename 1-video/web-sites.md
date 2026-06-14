@@ -18,14 +18,13 @@
 ---
 ### 🌈 4K原盘：[https://pomo.mom/](https://pomo.mom/)
 ---
-### 🌈 FLgens：[https://www.flgens.com/](https://www.flgens.com/)
----
-### 🌈 麦田影院：[https://www.mtyy5.com/](https://www.mtyy5.com/)
----
 ### 🌈 嘀嗒影视：[https://www.didahd.pro/](https://www.didahd.pro/)
 ---
 ### 🌈 人人视频：[https://m.yichengwlkj.com/](https://m.yichengwlkj.com/)
-
+---
+### 🌈 追光影视：[https://www.4kmovie.site/](https://www.4kmovie.site/)
+---
+### 🌈 555电影：[https://55kp5.com/](https://55kp5.com/)
 
 ## 💡 观影小贴士
 

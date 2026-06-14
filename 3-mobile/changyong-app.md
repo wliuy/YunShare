@@ -6,17 +6,13 @@
 
 ---
 
-### ✨ 最近更新 (2026-05-26)
+> 💥 精品推荐：
 
-* **知乎第三方客户端** 👉 **zhihu++** 🌟 `仅3.5M` [点击跳转保存](https://pan.quark.cn/s/d9b8c6390e2a)
-* **抖音视频下载** 👉 **抖下载** 🌟 `无需登录` [点击跳转保存](https://pan.quark.cn/s/0273e926c912)
-
-### 🚀 最近更新 (2026-05-21)
-* **安卓局域网管理神器** 👉 **PlainApp** 🌟 `GitHub大神开发` [点击跳转保存](https://pan.baidu.com/s/1FEqz9zv5h4bUYA7dd7TMNg?pwd=52pj)
----
-### 🚀 更新时间 (2026-03-31)
-* **视频下载** 👉 **Seal**：B站和小红书原视频下载 — [点击跳转保存](https://pan.quark.cn/s/411ae85ab204)
-* **图片处理** 👉 **扫描全能王** 🌟 `至尊解锁版` (去广，解锁至尊账户)
+| 软件名称 | 软件简介 | 度盘 | 夸克 |
+| :--- | :--- | :--- | :--- |
+| **GreenTuber** | **第三方油管** | [下载](https://pan.baidu.com/s/1voE4L476C6ldqC419gsckg?pwd=sa5d) | [下载](https://pan.89729981.xyz/s/youtube) |
+| **PiliPlus** | **哔哩第三方** | [下载](https://pan.baidu.com/s/1yW91z6hZBjIR0lOXFMA2Rw?pwd=jruy) | [下载](https://pan.89729981.xyz/s/PiliPlus) |
+| **zhihu++** | **知乎第三方** | [下载](https://pan.baidu.com/s/1yW91z6hZBjIR0lOXFMA2Rw?pwd=jruy) | [下载](https://pan.quark.cn/s/d9b8c6390e2a) |
 
 ---
 

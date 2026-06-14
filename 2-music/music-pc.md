@@ -4,18 +4,24 @@
 **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1NUNv-j0kghfhaGep4myk0Q?pwd=52pj)
 :::
 
-## 📀 在线听歌下载网站
+## 📀 无损音乐试听下载
+**更多内容详见：**[寂静导航](https://dh.89729981.xyz/)
 * ① GD音乐台：[https://music.gdstudio.org](https://music.gdstudio.org)
 * ② music-dl音乐下载：[https://music.zkkp.nyc.mn/](https://music.zkkp.nyc.mn/)
 * ③ 无损音乐下载：[https://flac.music.hi.cn](https://flac.music.hi.cn)
 * ④ COCO音乐下载站：[https://cocodownloader.markqq.com/](https://cocodownloader.markqq.com/)
 
 ---
-### ✨ Windows听歌软件 （站长推荐）
-* **基于B站实现的音乐客户端** 👉 **bilimusic** 🌟 `GitHub大神开发` [百度下载](https://pan.baidu.com/s/121WL1NZM0JGCoaOzFjSOMA)
----
-### ✨ Lofi-Radio-Player （推荐尝试）
-一款逼格非常高的极简 Lofi 音乐电台软件，适合学习工作背景音，把咖啡厅搬进你家。
+
+> 💥 精品推荐：
+
+| 软件名称 | 软件简介 | 下载 |
+| :--- | :--- | :--- |
+| **MusicKiller** | **安卓 PC 双平台** | [下载](https://www.89729981.xyz/posts/music/musickiller/) |
+| **bilimusic** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic/) |
+| **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
+| **Lofi-Radio-Player** | **音乐电台** | [下载](https://www.89729981.xyz/posts/music/lofi/) |
+
 
 ### ✨ MusicFree(桌面版)
 * 地址1： `https://musicfreepluginshub.2020818.xyz/plugins.json`。
