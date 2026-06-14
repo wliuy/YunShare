@@ -4,15 +4,6 @@
 **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1NUNv-j0kghfhaGep4myk0Q?pwd=52pj)
 :::
 
-## 📀 无损音乐试听下载
-**更多内容详见：**[寂静导航](https://dh.89729981.xyz/)
-* ① GD音乐台：[https://music.gdstudio.org](https://music.gdstudio.org)
-* ② music-dl音乐下载：[https://music.zkkp.nyc.mn/](https://music.zkkp.nyc.mn/)
-* ③ 无损音乐下载：[https://flac.music.hi.cn](https://flac.music.hi.cn)
-* ④ COCO音乐下载站：[https://cocodownloader.markqq.com/](https://cocodownloader.markqq.com/)
-
----
-
 > 💥 精品推荐：
 
 | 软件名称 | 软件简介 | 下载 |
@@ -22,7 +13,16 @@
 | **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
 | **Lofi-Radio-Player** | **音乐电台** | [下载](https://www.89729981.xyz/posts/music/lofi/) |
 
+## 📀 无损音乐在线试听下载
 
+* ① GD音乐台：[https://music.gdstudio.org](https://music.gdstudio.org)
+* ② music-dl音乐下载：[https://music.zkkp.nyc.mn/](https://music.zkkp.nyc.mn/)
+* ③ 无损音乐下载：[https://flac.music.hi.cn](https://flac.music.hi.cn)
+* ④ COCO音乐下载站：[https://cocodownloader.markqq.com/](https://cocodownloader.markqq.com/)
+
+**更多内容详见：**[寂静导航](https://dh.89729981.xyz/)
+
+## 📀 接口地址：
 ### ✨ MusicFree(桌面版)
 * 地址1： `https://musicfreepluginshub.2020818.xyz/plugins.json`。
 * 地址2： `https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/myPlugins.json`

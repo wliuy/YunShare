@@ -9,28 +9,28 @@ hero:
   actions:
     - theme: brand
       text: 立即探索
-      link: /1-video/android-app
+      link: /movie/v-android
     - theme: alt
       text: 资源列表
-      link: /1-video/movie
+      link: /movie/v-android
 
 # 🌟 [SEO 强化] 特色板块描述 - 覆盖全部 10 大核心词汇
 features:
   - title: "🚀 安卓影视"
     details: "全网最强安卓影视APP分享，绿色资源内置蓝光线路，极速秒播，完全免费。"
-    link: /1-video/android-app
+    link: /movie/v-android
   - title: "🍎 苹果影视"
     details: "分享 iOS 影视、苹果影视套壳及橘汁视频变身代码，解决苹果端看片难题。"
-    link: /1-video/iPhone-app
+    link: /movie/v-ios
   - title: "🎵 音乐软件"
     details: "精选安卓与电脑音乐软件，绿色资源支持无损音质下载，畅听全网热门音乐。"
-    link: /2-music/music-android
+    link: /music/music-a
   - title: "💻 电脑软件"
     details: "提供常用电脑软件、系统盘镜像及高效装机工具，让您的电脑运行如飞。"
-    link: /4-pc/install
+    link: /pc/pc-install
   - title: "🖼️ 手机壁纸"
     details: "每日更新 4K 超清手机壁纸，精选动漫、风景、简约等多种风格免费资源。"
-    link: /bizhi
+    link: /other/bizhi
 ---
 
 <div style="text-align: center; color: var(--vp-c-text-2); font-size: 0.9em; margin-top: 50px;">

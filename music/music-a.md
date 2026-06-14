@@ -5,6 +5,14 @@
 * **夸克网盘**：[点击跳转保存](https://pan.89729981.xyz/s/azyy)
 
 :::
+> 💫 最近更新：
+
+| 软件名称 | 更新日期 | 度盘 | 夸克 |
+| :--- | :--- | :--- | :--- |
+| **云眠音乐** | 2026.06.14 | [下载](https://pan.baidu.com/s/1if37ZW0yZbamQPKm7lonbw?pwd=9rhr) | [下载](https://pan.89729981.xyz/s/ymyy) |
+| **音悦** | 2026.04.10 | [下载](https://pan.baidu.com/s/17IMgPfi_zTxZwKnVWQWtXQ?pwd=eriv) | [下载](https://pan.89729981.xyz/s/yyzxx) |
+| **云音Music** | 2026.04.10 | [下载](https://pan.baidu.com/s/1uaG7yr-Flxdie86y4GrMEw?pwd=aaky) | [下载](https://pan.89729981.xyz/s/yymusic) |
+---
 > 💥 精品推荐：
 
 | 软件名称 | 软件简介 | 下载 |
@@ -15,15 +23,7 @@
 | **水獭音乐** | **聚合全网音源** | [下载](https://www.89729981.xyz/posts/music/ottermusic/) |
 | **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
 
-> 💫 最近更新：
-
-| 软件名称 | 更新日期 | 度盘 | 夸克 |
-| :--- | :--- | :--- | :--- |
-| **云眠音乐** | 2026.06.14 | [下载](https://pan.baidu.com/s/1if37ZW0yZbamQPKm7lonbw?pwd=9rhr) | [下载](https://pan.89729981.xyz/s/ymyy) |
-| **音悦** | 2026.04.10 | [下载](https://pan.baidu.com/s/17IMgPfi_zTxZwKnVWQWtXQ?pwd=eriv) | [下载](https://pan.89729981.xyz/s/yyzxx) |
-| **云音Music** | 2026.04.10 | [下载](https://pan.baidu.com/s/1uaG7yr-Flxdie86y4GrMEw?pwd=aaky) | [下载](https://pan.89729981.xyz/s/yymusic) |
-
----
+## 📀 接口地址：
 ### ✨ MusicFree
 #### 插件接口链接：
 * **地址1：** `https://musicfreepluginshub.2020818.xyz/plugins.json`。

@@ -12,11 +12,11 @@
 
 | 软件名称 (网盘对应) | 经典特色 | 备注 |
 | :--- | :--- | :--- |
-| **DongYuTv** | 直播 自带源 💎 | [百度](https://pan.baidu.com/s/1BeevjlfPtqfrImgK9b2jaA?pwd=28dv) [夸克](https://pan.89729981.xyz/s/dongyu)  |
-| **FM影视** | 点播 需导入Tvbox源 | [百度](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) [夸克](https://pan.89729981.xyz/s/fmyingshi) | 
+| **DongYuTv** | 直播 自带源 💎 | [下载](https://www.89729981.xyz/posts/yingshi/dongyu/)  |
+| **FM影视** | 点播 需导入Tvbox源 | [下载](https://www.89729981.xyz/posts/yingshi/fmys/) | 
 | **蜂巢直-Pro (TV版)** | 直播 |  |
 | **开心TV2.5** | 点播 自带源 |   |
-| **云影空蒙** | 直播 需导入源 | 20260607  |
+| **云影空蒙** | 直播 需导入源 | [下载](https://www.89729981.xyz/posts/yingshi/tgyykm/) |
 
 ### 📺 云影空蒙直播源：
 **源导入路径**：`首页` -> `推送` -> `填入源名称与链接` -> `添加订阅源`
@@ -38,4 +38,3 @@
 
 #### 🌈 其他源汇总：[https://www.89729981.xyz/posts/yingshi/yingshiyuan/](https://www.89729981.xyz/posts/yingshi/yingshiyuan/)
 #### 🌈 其他源汇总：[https://cyuan.netlify.app/](https://cyuan.netlify.app/)
-

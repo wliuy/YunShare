@@ -227,42 +227,43 @@ export default defineConfig({
         text: '🎬 影视分类',
         collapsed: false,
         items: [
-          { text: '安卓影视 🔥', link: '/1-video/android-app' },
-          { text: '苹果影视 💫', link: '/1-video/iPhone-app' },
-          { text: '影视网站', link: '/1-video/web-sites' },
-          { text: '电视 TV', link: '/1-video/tv-app' },
+          { text: '安卓影视 🔥', link: '/movie/v-android' },
+          { text: '苹果影视 💫', link: '/movie/v-ios' },
+          { text: '影视网站', link: '/movie/v-sites' },
+          { text: '电视 TV', link: '/movie/v-tv' },
         ]
       },
       {
         text: '🎵 音乐分类',
         collapsed: false,
         items: [
-          { text: '安卓 Music', link: '/2-music/music-android' },
-          { text: '电脑 Music', link: '/2-music/music-pc' }
+          { text: '安卓 Music', link: '/music/music-a' },
+          { text: '电脑 Music', link: '/music/music-pc' }
         ]
       },
       {
         text: '📱 手机APP',
         collapsed: false,
         items: [
-          { text: '常用软件', link: '/3-mobile/changyong-app' },
-          { text: 'Root 相关', link: '/3-mobile/root' }
+          { text: '安卓常用', link: '/android/a-changyong' },
+          { text: 'Root 相关', link: '/android/root' }
         ]
       },
       {
         text: '💻 电脑分类',
         collapsed: false,
         items: [
-          { text: '装机软件', link: '/4-pc/install' },
-          { text: '系统盘镜像', link: '/4-pc/os-disk' }
+          { text: '电脑常用', link: '/pc/pc-changyong' },
+          { text: '装机软件', link: '/pc/pc-install' },
+          { text: '系统盘镜像', link: '/pc/pc-os' }
         ]
       },
       {
         text: '🛸 其他资源',
         collapsed: false,
         items: [
-          { text: '每日壁纸 🖼️', link: '/bizhi' },
-          { text: '友情链接', link: '/5-other/others' }
+          { text: '每日壁纸 🖼️', link: '/other/bizhi' },
+          { text: '友情链接', link: '/other/others' }
         ]
       }
     ],
