@@ -10,6 +10,13 @@
 
 | 软件名称 | 软件简介 | 更新日期 | 资源 |
 | :--- | :--- | :--- | :--- |
+| **无印** | 多平台视频无水印下载 | 2026.06.15 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
+| **抖印** | 抖音原视频无水印下载 | 2026.06.15 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
+| **瞬净-哔哩版** | B站视频下载 | 2026.06.14 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
+| **ToAPP** | 网页一键生成APP | 2026.06.14 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
+| **搜云盘** | 云盘搜索工具 | 2026.06.14 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
+| **假装来电** | 定时来电/语音通话 | 2026.06.14 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
+| **小风车工具盒** | 多种常用工具合集 | 2026.06.14 | [百度](https://pan.baidu.com/s/17CXLrHDYbohAhHqT3AmyJg?pwd=v6vi) [夸克](https://pan.89729981.xyz/s/androidsj) |
 | **GreenTube** | 油管第三方播放器 | 2026.06.13 | [下载](https://www.89729981.xyz/posts/yingshi/youtube/) |
 | **PiliPlus** | 强大的B站第三方播放器 | 2026.06.05 | [下载](https://www.89729981.xyz/posts/yingshi/piliplus/) |
 | **GKD** | 自动跳广告神器 | 2026.06.03 | [下载](https://www.89729981.xyz/posts/260603gdk/) |
