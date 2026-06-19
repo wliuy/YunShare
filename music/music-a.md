@@ -22,6 +22,7 @@
 | **bilimusic** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic/) |
 | **水獭音乐** | **聚合全网音源** | [下载](https://www.89729981.xyz/posts/music/ottermusic/) |
 | **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
+| **音理音理** | **B站、wyy、YouTube** | [下载](https://www.89729981.xyz/posts/music/260616music/) |
 
 ## 📀 接口地址：
 ### ✨ MusicFree
