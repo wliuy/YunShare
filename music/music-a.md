@@ -9,6 +9,7 @@
 
 | 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
+| **NeriPlayer** | 2026.06.20 | [下载](https://pan.baidu.com/s/1ADbx0roe6A03_m8x72VZqg?pwd=3mjz) | [下载](https://pan.89729981.xyz/s/NeriPlayer) |
 | **云眠音乐** | 2026.06.14 | [下载](https://pan.baidu.com/s/1if37ZW0yZbamQPKm7lonbw?pwd=9rhr) | [下载](https://pan.89729981.xyz/s/ymyy) |
 | **音悦** | 2026.04.10 | [下载](https://pan.baidu.com/s/17IMgPfi_zTxZwKnVWQWtXQ?pwd=eriv) | [下载](https://pan.89729981.xyz/s/yyzxx) |
 | **云音Music** | 2026.04.10 | [下载](https://pan.baidu.com/s/1uaG7yr-Flxdie86y4GrMEw?pwd=aaky) | [下载](https://pan.89729981.xyz/s/yymusic) |

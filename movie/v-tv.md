@@ -10,8 +10,10 @@
 ---
 > **特别推荐：**
 
-| 软件名称 (网盘对应) | 经典特色 | 备注 |
+| 软件名称 | 经典特色 | 备注 |
 | :--- | :--- | :--- |
+| **BV** | B站TV第三方 💎 | [下载](https://www.89729981.xyz/posts/yingshi/bv/)  |
+| **SmartTube** | 油管TV第三方 💎 | [下载](https://www.89729981.xyz/posts/yingshi/smarttube/)  |
 | **DongYuTv** | 直播 自带源 💎 | [下载](https://www.89729981.xyz/posts/yingshi/dongyu/)  |
 | **FM影视** | 点播 需导入Tvbox源 | [下载](https://www.89729981.xyz/posts/yingshi/fmys/) | 
 | **蜂巢直-Pro (TV版)** | 直播 |  |

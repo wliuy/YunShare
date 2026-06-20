@@ -2,8 +2,8 @@
 
 ::: info 📥 资源下载
 
-* **百度网盘**：[点击跳转保存](https://pan.baidu.com/s/1v_-KTZq9vchmBvQM9raHNg?pwd=52pj)
-* **夸克网盘**：[点击跳转保存](https://pan.89729981.xyz/s/azys)
+* **百度网盘汇总**：[点击跳转保存](https://pan.baidu.com/s/1v_-KTZq9vchmBvQM9raHNg?pwd=52pj)
+* **夸克网盘汇总**：[点击跳转保存](https://pan.89729981.xyz/s/azys)
 
 **🚨🚨 建议保存此链接，打开网盘更新提醒 🚨🚨**
 
@@ -15,6 +15,8 @@
 
 | 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
+| **牛牛视频** | 2026.06.20 | [下载](https://pan.baidu.com/s/1eEH8SxIUHTg595ogYy7Vqw?pwd=sbei) | [下载](https://pan.89729981.xyz/s/nnsp) |
+| **Sparkle** | 2026.06.20 | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
 | **纯粹直播** | 2026.06.14 | [下载](https://pan.baidu.com/s/1buxFOQMKcmth5rYjJ-6_cA?pwd=pdgx) | [下载](https://pan.89729981.xyz/s/chuncuizhibo) |
 | **剧岛** | 2026.06.14 | [下载](https://pan.baidu.com/s/1wDw1V_-LrE85a1cJ2E5Z_Q?pwd=6nfi) | [下载](https://pan.89729981.xyz/s/judao) |
 | **电影天堂** | 2026.06.14 | [下载](https://pan.baidu.com/s/1rvVvxp_je5SiL_jNRCmTnA?pwd=3sjs) | [下载](https://pan.89729981.xyz/s/dytt) |
