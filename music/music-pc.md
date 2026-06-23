@@ -8,8 +8,9 @@
 
 | 软件名称 | 软件简介 | 下载 |
 | :--- | :--- | :--- |
+| **BiliMusic** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic2/) |
 | **MusicKiller** | **安卓 PC 双平台** | [下载](https://www.89729981.xyz/posts/music/musickiller/) |
-| **bilimusic** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic/) |
+| **bili-music** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic/) |
 | **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
 | **Lofi-Radio-Player** | **音乐电台** | [下载](https://www.89729981.xyz/posts/music/lofi/) |
 
