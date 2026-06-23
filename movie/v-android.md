@@ -15,6 +15,7 @@
 
 | 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
+| **火易视频** | 2026.06.23 | [下载](https://pan.baidu.com/s/1Y4gAB6f5dbm7HTTHz52MNQ?pwd=adsq) | [下载](https://pan.89729981.xyz/s/hysp) |
 | **OK影视Pro** | 2026.06.21 | [下载](https://pan.baidu.com/s/1pcC-4zS4eyDT7jRPaUdYHw?pwd=4yqp) | [下载](https://pan.89729981.xyz/s/okpro) |
 | **牛牛视频** | 2026.06.20 | [下载](https://pan.baidu.com/s/1eEH8SxIUHTg595ogYy7Vqw?pwd=sbei) | [下载](https://pan.89729981.xyz/s/nnsp) |
 | **Sparkle** | 2026.06.20 | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
