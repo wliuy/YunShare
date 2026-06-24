@@ -9,23 +9,24 @@
 
 | 软件名称 | 更新日期 | 下载 |
 | :--- | :--- | :--- |
+| **音悦** | 2026.06.24 | [下载](https://www.89729981.xyz/posts/music/yinyue/) |
 | **BiliMusic** | 2026.06.23 | [下载](https://www.89729981.xyz/posts/music/bilimusic2/) |
 | **青听音乐** | 2026.06.23 | [下载](https://www.89729981.xyz/posts/music/qingmusic/) |
 | **NeriPlayer** | 2026.06.20 | [下载](https://www.89729981.xyz/posts/music/neriplayer/) |
 | **云眠音乐** | 2026.06.14 | [度盘](https://pan.baidu.com/s/1if37ZW0yZbamQPKm7lonbw?pwd=9rhr) [夸克](https://pan.89729981.xyz/s/ymyy) |
-| **音悦** | 2026.04.10 | [度盘](https://pan.baidu.com/s/17IMgPfi_zTxZwKnVWQWtXQ?pwd=eriv) [夸克](https://pan.89729981.xyz/s/yyzxx) |
 | **云音Music** | 2026.04.10 | [度盘](https://pan.baidu.com/s/1uaG7yr-Flxdie86y4GrMEw?pwd=aaky) [夸克](https://pan.89729981.xyz/s/yymusic) |
 ---
 > 💥 精品推荐：
 
 | 软件名称 | 软件简介 | 下载 |
 | :--- | :--- | :--- |
+| **音悦** | **安卓听歌天花板** | [下载](https://www.89729981.xyz/posts/music/yinyue/) |
 | **酷我音乐** | **解锁会员 手机 车机** | [下载](https://www.89729981.xyz/posts/music/kuwo/) |
 | **MusicKiller** | **安卓 PC 双平台** | [下载](https://www.89729981.xyz/posts/music/musickiller/) |
 | **BiliMusic** | **B站音乐客户端** | [下载](https://www.89729981.xyz/posts/music/bilimusic2/) |
 | **水獭音乐** | **聚合全网音源** | [下载](https://www.89729981.xyz/posts/music/ottermusic/) |
-| **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
 | **音理音理** | **B站、wyy、YouTube** | [下载](https://www.89729981.xyz/posts/music/260616music/) |
+| **MusicFree** | **超多音源供导入** | [下载](https://www.89729981.xyz/posts/music/musicfree/) |
 
 ## 📀 接口地址：
 ### ✨ MusicFree
