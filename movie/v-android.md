@@ -15,6 +15,8 @@
 
 | 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
+| **蒙太奇影视** | 2026.06.27 | [下载](https://pan.baidu.com/s/1TRSqXXy8AKHYTATSavskgg?pwd=4538) | [下载](https://pan.89729981.xyz/s/mtqysv) |
+| **快追影视** | 2026.06.27 | [下载](https://pan.baidu.com/s/129-WV3eE7CuX2zcij4tQJQ?pwd=xqkr) | [下载](https://pan.89729981.xyz/s/kzys) |
 | **追忆视频** | 2026.06.24 | [下载](https://pan.baidu.com/s/1xcRGeiFNpIr7AYcT4q9Eew?pwd=dkcm) | [下载](https://pan.89729981.xyz/s/zyys) |
 | **火易视频** | 2026.06.23 | [下载](https://pan.baidu.com/s/1Y4gAB6f5dbm7HTTHz52MNQ?pwd=adsq) | [下载](https://pan.89729981.xyz/s/hysp) |
 | **OK影视Pro** | 2026.06.21 | [下载](https://pan.baidu.com/s/1pcC-4zS4eyDT7jRPaUdYHw?pwd=4yqp) | [下载](https://pan.89729981.xyz/s/okpro) |
