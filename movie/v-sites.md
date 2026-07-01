@@ -2,7 +2,9 @@
 
 > 聚合全网优质在线影视与下载资源，点击名称或链接即可直接跳转。
 
-## ★ 更多内容见寂静导航：[https://dh.89729981.xyz/](https://dh.89729981.xyz/)
+## ★ 更多内容见寂静导航影视网站区：
+
+[https://dh.89729981.xyz/](https://dh.89729981.xyz/)
 
 ---
 ### 🌈 PPnix：[https://www.ppnix.com/cn/](https://www.ppnix.com/cn/)
