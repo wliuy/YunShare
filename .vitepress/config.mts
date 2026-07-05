@@ -274,8 +274,8 @@ export default defineConfig({
         items: [
           { text: '安卓影视 🔥', link: '/movie/v-android' },
           { text: '苹果影视', link: '/movie/v-ios' },
-          { text: '影视网站', link: '/movie/v-sites' },
           { text: '电视 TV', link: '/movie/v-tv' },
+          { text: '影视网站', link: '/movie/v-sites' },
         ]
       },
       {
@@ -306,8 +306,8 @@ export default defineConfig({
         text: '🛸 其他资源',
         collapsed: false,
         items: [
-          { text: '每日壁纸 🖼️', link: '/other/bizhi' },
-          { text: '友情链接', link: '/other/others' }
+          { text: '素材干货 📚', link: '/other/qita' },
+          { text: '友情链接', link: '/other/friends' }
         ]
       }
     ],

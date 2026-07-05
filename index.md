@@ -37,15 +37,22 @@ features:
   - title: "🎵 安卓音乐"
     details: "安卓手机独立音乐客户端，解锁全网VIP会员特权，各大平台付费音乐均支持无损音质免费下载畅听。"
     link: /music/music-a
-  - title: "🎵 电脑音乐"
+  - title: "💿 电脑音乐"
     details: "电脑端高品质PC音乐播放器与极品音源合集，全网音乐免费畅听，助你打造专属的高质量本地曲库。"
     link: /music/music-pc
-  - title: "🖥️ 电脑好软"
+  - title: "💻 电脑好软"
     details: "Windows 常用必备高效绿色工具、网页视频无损下载器及系统强力清理优化套件，提升办公效率。"
     link: /pc/pc-changyong
   - title: "🖥️ PC 装机"
     details: "提供纯净官方原版Windows系统镜像、安全的系统激活工具以及图吧工具箱等极客装机验机神软。"
     link: /pc/pc-install
+  - title: "📲 Root搞机"
+    details: "精选安卓玩机极客必备神器，涵盖 Magisk 面具模块、LSPosed 框架、一键 Root 刷机解锁工具及各类底层系统级优化与去广告插件。"
+    link: /android/root
+  - title: "📚 素材干货"
+    details: "汇聚海量超清壁纸套图、短视频起号带货黄金三秒素材、爆笑文案剧本及中小学电子课本等高质量网盘虚拟资料合集。"
+    link: /other/qita
+
 ---
 
 <div style="text-align: center; color: var(--vp-c-text-2); font-size: 0.9em; margin-top: 50px;">

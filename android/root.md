@@ -11,7 +11,7 @@
 
 | 模块用途 | 软件名称 | 下载 |
 | :--- | :--- | :--- |
-| 微信增强 | **FkWeChat-1.2.6(31)** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
+| 微信增强 | **FkWeChat-1.2.6** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
 | 微信增强 | **WAuxv-v1.2.7** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
 | 微信增强 | **NewMiko(1.8.0)** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
 | 微信好友管理 | **51friend_138** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
