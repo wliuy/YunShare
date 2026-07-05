@@ -15,7 +15,7 @@
 | 软件名称 | 软件简介 | 更新日期 | 资源 |
 | :--- | :--- | :--- | :--- |
 | **豆包去水印** | 视频、图片去水印 | 2026.06.29 | [下载](https://www.89729981.xyz/posts/260629doubaofree/) |
-| **猫抓** | 网页视频下载插件 | 2026.06.13 | [下载](https://www.89729981.xyz/posts/260613maozhua/) |
+| **猫抓** | B站 红书 网页视频下载 | 2026.06.13 | [下载](https://www.89729981.xyz/posts/260613maozhua/) |
 | **wx_video_download** | 微信视频号下载 | 2026.06.06 | [下载](https://www.89729981.xyz/posts/260606wxvd/) |
 | **videdown** | 万能视频下载器 | 2026.06.01 | [下载](https://www.89729981.xyz/posts/260601videdown/) |
 | **LiteMonitor** | PC硬件监控神器 | 2026.05.27 | [下载](https://www.89729981.xyz/posts/litemonitor/) |

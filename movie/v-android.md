@@ -15,13 +15,15 @@
 
 | 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
+| **追忆视频** | 2026.07.05 | [下载](https://pan.baidu.com/s/1xcRGeiFNpIr7AYcT4q9Eew?pwd=dkcm) | [下载](https://pan.89729981.xyz/s/zyys) |
+| **小柚子** | 2026.07.05 | [下载](https://pan.baidu.com/s/1MzgxfkStqbNyCHUpP6AaRQ?pwd=jceh) | [下载](https://pan.89729981.xyz/s/xyzys) |
+| **FM影视5.5.6** | 2026.07.03 | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.89729981.xyz/s/fmyingshi) |
+| **Sparkle** | 2026.07.03 | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
 | **蒙太奇影视** | 2026.06.27 | [下载](https://pan.baidu.com/s/1TRSqXXy8AKHYTATSavskgg?pwd=4538) | [下载](https://pan.89729981.xyz/s/mtqysv) |
 | **快追影视** | 2026.06.27 | [下载](https://pan.baidu.com/s/129-WV3eE7CuX2zcij4tQJQ?pwd=xqkr) | [下载](https://pan.89729981.xyz/s/kzys) |
-| **追忆视频** | 2026.06.24 | [下载](https://pan.baidu.com/s/1xcRGeiFNpIr7AYcT4q9Eew?pwd=dkcm) | [下载](https://pan.89729981.xyz/s/zyys) |
 | **火易视频** | 2026.06.23 | [下载](https://pan.baidu.com/s/1Y4gAB6f5dbm7HTTHz52MNQ?pwd=adsq) | [下载](https://pan.89729981.xyz/s/hysp) |
 | **OK影视Pro** | 2026.06.21 | [下载](https://pan.baidu.com/s/1pcC-4zS4eyDT7jRPaUdYHw?pwd=4yqp) | [下载](https://pan.89729981.xyz/s/okpro) |
 | **牛牛视频** | 2026.06.20 | [下载](https://pan.baidu.com/s/1eEH8SxIUHTg595ogYy7Vqw?pwd=sbei) | [下载](https://pan.89729981.xyz/s/nnsp) |
-| **Sparkle** | 2026.06.20 | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
 | **纯粹直播** | 2026.06.14 | [下载](https://pan.baidu.com/s/1buxFOQMKcmth5rYjJ-6_cA?pwd=pdgx) | [下载](https://pan.89729981.xyz/s/chuncuizhibo) |
 | **剧岛** | 2026.06.14 | [下载](https://pan.baidu.com/s/1wDw1V_-LrE85a1cJ2E5Z_Q?pwd=6nfi) | [下载](https://pan.89729981.xyz/s/judao) |
 | **电影天堂** | 2026.06.14 | [下载](https://pan.baidu.com/s/1rvVvxp_je5SiL_jNRCmTnA?pwd=3sjs) | [下载](https://pan.89729981.xyz/s/dytt) |

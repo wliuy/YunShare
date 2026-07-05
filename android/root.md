@@ -14,7 +14,7 @@
 | 微信增强 | **FkWeChat-1.2.6(31)** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
 | 微信增强 | **WAuxv-v1.2.7** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
 | 微信增强 | **NewMiko(1.8.0)** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
-| 微信增强 | **51friend_138** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
+| 微信好友管理 | **51friend_138** | [百度](https://pan.baidu.com/s/1c7DnjObE6WmO9RNSPGGzvQ?pwd=btsa)  [夸克](https://pan.89729981.xyz/s/wxzqmk) |
 | 支付宝模块 | **芝麻粒** | [百度](https://pan.baidu.com/s/1EJtx98NitiGEh40fCzfzjQ?pwd=qhqu)  [夸克](https://pan.89729981.xyz/s/zfbmk) |
 | 百度贴吧净化| **ForbidAd4TieBa** | [百度](https://pan.baidu.com/s/1SpcHNZhrpzTkxjMWrV4gDA?pwd=d496)  [夸克](https://pan.89729981.xyz/s/bdtbjhmk) |
 | 百度网盘净化 | **PureDuPan** | [百度](https://pan.baidu.com/s/1_9Gqd4-bLJKHvHRxLGhcpw?pwd=qyit)  [夸克](https://pan.89729981.xyz/s/bdwpjhp) |
@@ -23,7 +23,7 @@
 | 抖音增强 | **抖+** | [百度](https://pan.baidu.com/s/1Kuj1c1_jRdxwwFCP0ycXEA?pwd=t1gs)  [夸克](https://pan.89729981.xyz/s/dymkd) |
 | Via浏览器增强 | **BetterVia** | [百度](https://pan.baidu.com/s/1vszt4XmBkIgLYSP2zZPjDg?pwd=i5eq)  [夸克](https://pan.89729981.xyz/s/bettervia) |
 | 知乎增强 | **Zhiliao** | [百度](https://pan.baidu.com/s/14_L7URNqFIUqsQoCSfSWgg?pwd=6ith)  [夸克](https://pan.89729981.xyz/s/zhiliao) |
-| 电报增强 | **TikTok Plugin** | [百度](https://pan.baidu.com/s/1MdXtBRyztBCqK5uaIcLuVg?pwd=1ipd)  [夸克](https://pan.89729981.xyz/s/telegram) |
+| 电报增强 | **TeleVIP** | [百度](https://pan.baidu.com/s/1Bis_OC3llJdaRm7v5Knfkw?pwd=m1vt)  [夸克](https://pan.89729981.xyz/s/telegram) |
 | TikTok解锁 | **TikTok Plugin** | [百度](https://pan.baidu.com/s/1aGF1o53D8V2CXVKAkltaFQ?pwd=kqv2)  [夸克](https://pan.89729981.xyz/s/tiktok) |
 | 葫芦侠增强 | **Huluxia_Plus** | [百度](https://pan.baidu.com/s/1_JzKL-RNjGb9tCEsuXcijQ?pwd=bf6s)  [夸克](https://pan.89729981.xyz/s/hlxzq) |
 | 多应用VIP | **FreeMoe** | [百度](https://pan.baidu.com/s/1yX8AHcG80WrZoxncXUkiIw?pwd=14tc)  [夸克](https://pan.89729981.xyz/s/vipjs) |
@@ -39,6 +39,7 @@
 | 虚拟摄像头 | **虚拟摄像头** | [百度](https://pan.baidu.com/s/1-dXnOF8RyUAye5s8fwaNCA?pwd=yqyk)  [夸克](https://pan.89729981.xyz/s/xnsxt) |
 | Root管理 | **KernelSU** | [百度](https://pan.baidu.com/s/1dm9jBVzweA5heBVHGZpyDA?pwd=2z7r)  [夸克](https://pan.89729981.xyz/s/kernelsu) |
 | Root管理 | **Magisk** | [百度](https://pan.baidu.com/s/15vBiJ7w088etsUjqMU8TlA?pwd=5g9c)  [夸克](https://pan.89729981.xyz/s/magisk) |
+| 核心模块 | **Zygisk-Next** | [百度](https://pan.baidu.com/s/1MyVhuobpaAQoxyl_qWT1tQ?pwd=3hyb)  [夸克](https://pan.89729981.xyz/s/zygisknext) | 
 | Xposed运行环境 | **LSPosed** | [百度](https://pan.baidu.com/s/1icAN70AuqdtMz_c_EGyIXw?pwd=3svt)  [夸克](https://pan.89729981.xyz/s/lsposed) |
 | 隐藏Root | **隐藏环境相关模块** | [百度](https://pan.baidu.com/s/1Ot56gL1VRvu5CdM2KCJKHw?pwd=xmnh)  [夸克](https://pan.89729981.xyz/s/ychj) |
 | 系统破解 | **核心破解_4.9** | [百度](https://pan.baidu.com/s/17X1vFsUmOlSgcMteNU4PXw?pwd=a8wf)  [夸克](https://pan.89729981.xyz/s/hexinpojie) |
