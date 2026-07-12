@@ -15,35 +15,28 @@
 
 | 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
-| **追忆视频5.6.0** | 2026.07.12 | [下载](https://pan.baidu.com/s/1xcRGeiFNpIr7AYcT4q9Eew?pwd=dkcm) | [下载](https://pan.89729981.xyz/s/zyys) |
-| **Sparkle** | 2026.07.12 | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
+| **追忆视频5.6.0💥** | 2026.07.12 | [下载](https://pan.baidu.com/s/1xcRGeiFNpIr7AYcT4q9Eew?pwd=dkcm) | [下载](https://pan.89729981.xyz/s/zyys) |
+| **Sparkle💥** | 2026.07.12 | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
 | **叠影影视** | 2026.07.12 | [下载](https://pan.baidu.com/s/1v_-KTZq9vchmBvQM9raHNg?pwd=52pj) | [下载](https://pan.89729981.xyz/s/azys) |
 | **彩虹视频** | 2026.07.11 | [下载](https://pan.baidu.com/s/1v_-KTZq9vchmBvQM9raHNg?pwd=52pj) | [下载](https://pan.89729981.xyz/s/azys) |
 | **小柚子** | 2026.07.05 | [下载](https://pan.baidu.com/s/1MzgxfkStqbNyCHUpP6AaRQ?pwd=jceh) | [下载](https://pan.89729981.xyz/s/xyzys) |
-| **FM影视5.5.6** | 2026.07.03 | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.89729981.xyz/s/fmyingshi) |
+| **橘汁💥** | 2026.06.28 | [下载](https://pan.baidu.com/s/16eO0KdFyxDmLUrNmR9VtEw?pwd=r1gf) | [下载](https://pan.89729981.xyz/s/juzhi) |
 | **蒙太奇影视** | 2026.06.27 | [下载](https://pan.baidu.com/s/1TRSqXXy8AKHYTATSavskgg?pwd=4538) | [下载](https://pan.89729981.xyz/s/mtqysv) |
 | **快追影视** | 2026.06.27 | [下载](https://pan.baidu.com/s/129-WV3eE7CuX2zcij4tQJQ?pwd=xqkr) | [下载](https://pan.89729981.xyz/s/kzys) |
 | **火易视频** | 2026.06.23 | [下载](https://pan.baidu.com/s/1Y4gAB6f5dbm7HTTHz52MNQ?pwd=adsq) | [下载](https://pan.89729981.xyz/s/hysp) |
 | **OK影视Pro** | 2026.06.21 | [下载](https://pan.baidu.com/s/1pcC-4zS4eyDT7jRPaUdYHw?pwd=4yqp) | [下载](https://pan.89729981.xyz/s/okpro) |
 | **牛牛视频** | 2026.06.20 | [下载](https://pan.baidu.com/s/1eEH8SxIUHTg595ogYy7Vqw?pwd=sbei) | [下载](https://pan.89729981.xyz/s/nnsp) |
-| **纯粹直播** | 2026.06.14 | [下载](https://pan.baidu.com/s/1buxFOQMKcmth5rYjJ-6_cA?pwd=pdgx) | [下载](https://pan.89729981.xyz/s/chuncuizhibo) |
+| **纯粹直播💥** | 2026.06.14 | [下载](https://pan.baidu.com/s/1buxFOQMKcmth5rYjJ-6_cA?pwd=pdgx) | [下载](https://pan.89729981.xyz/s/chuncuizhibo) |
 | **剧岛** | 2026.06.14 | [下载](https://pan.baidu.com/s/1wDw1V_-LrE85a1cJ2E5Z_Q?pwd=6nfi) | [下载](https://pan.89729981.xyz/s/judao) |
 | **电影天堂** | 2026.06.14 | [下载](https://pan.baidu.com/s/1rvVvxp_je5SiL_jNRCmTnA?pwd=3sjs) | [下载](https://pan.89729981.xyz/s/dytt) |
+| **大师兄影视💥** | 2026.06.13 | [下载](https://pan.baidu.com/s/1r8vYDzAUvMeB55CjYXMZKQ?pwd=zfre) | [下载](https://pan.89729981.xyz/s/4anaz7) |
 | **彩虹视频** | 2026.05.29 | [下载](https://pan.baidu.com/s/1wDEJ_qY1RlnT8_7XUbrSkA?pwd=xadr) | [下载](https://pan.quark.cn/s/8e709d923b2b) |
 | **追剧达人** | 2026.05.11 | [下载](https://pan.baidu.com/s/1taTZKxeYtk7awybY0xu2Pw?pwd=qdhy) | [下载](https://pan.quark.cn/s/82fea4204428) |
 
----
-> 💥 精品推荐：
-
-| 软件名称 | 软件简介 | 度盘 | 夸克 |
+> 💫 TVBox系列：
+| 软件名称 | 更新日期 | 度盘 | 夸克 |
 | :--- | :--- | :--- | :--- |
-| **追忆视频** | **4K 去广 弹幕** | [下载](https://pan.baidu.com/s/1xcRGeiFNpIr7AYcT4q9Eew?pwd=dkcm) | [下载](https://pan.89729981.xyz/s/zyys) |
-| **橘汁** | **4K 去广 弹幕** | [下载](https://pan.baidu.com/s/16eO0KdFyxDmLUrNmR9VtEw?pwd=r1gf) | [下载](https://pan.89729981.xyz/s/juzhi) |
-| **大师兄影视** | **4K 去广 弹幕** | [下载](https://pan.baidu.com/s/16eO0KdFyxDmLUrNmR9VtEw?pwd=r1gf) | [下载](https://pan.89729981.xyz/s/juzhi) |
-| **Sparkle** | **4K 番剧** | [下载](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) | [下载](https://pan.89729981.xyz/s/sparkle) |
-| **FM影视** | **手动配置源** | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.89729981.xyz/s/fmyingshi) |
-| **纯粹直播** | **多平台聚合** | [下载](https://pan.baidu.com/s/1buxFOQMKcmth5rYjJ-6_cA?pwd=pdgx) | [下载](https://pan.89729981.xyz/s/chuncuizhibo) |
-
+| **FM影视5.5.6💥** | 2026.07.03 | [下载](https://pan.baidu.com/s/17xMyJz9Ekg73QkN_JhXSdg?pwd=52pj) | [下载](https://pan.89729981.xyz/s/fmyingshi) |
 ---
 ### ✨ **影视源导入路径**：`设置` -> `点播`
   复制以下链接填入：
