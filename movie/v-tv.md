@@ -14,9 +14,6 @@
 | :--- | :--- | :--- |
 | **儿歌多多** | 无限制版 💎 | [下载](https://www.89729981.xyz/posts/yingshi/ergedd/)  |
 | **酷9直播** | TV直播软件 💎 | [下载](https://www.89729981.xyz/posts/yingshi/ku9/)  |
-| **FM影视** | 点播 需导入Tvbox源 | [下载](https://www.89729981.xyz/posts/yingshi/fmys/) | 
-| **OK影视** | 点播 需导入Tvbox源 | [下载](https://www.89729981.xyz/posts/yingshi/okys/) | 
-| **OK影视Pro** | 弹幕、字幕 | [下载](https://www.89729981.xyz/posts/yingshi/okpro/)  |
 | **BV** | B站TV第三方 💎 | [下载](https://www.89729981.xyz/posts/yingshi/bv/)  |
 | **SmartTube** | 油管TV第三方 | [下载](https://www.89729981.xyz/posts/yingshi/smarttube/)  |
 | **DongYuTv** | 直播 自带源 💎 | [下载](https://www.89729981.xyz/posts/yingshi/dongyu/)  |
@@ -25,7 +22,20 @@
 | **云影空蒙** | 直播 需导入源 | [下载](https://www.89729981.xyz/posts/yingshi/tgyykm/) |
 
 ---
-### 📺 Tvbox源
+
+### 📦 TVBox系列：
+
+| 软件名称 | 更新日期 | 下载 |
+| :--- | :--- | :--- |
+| **TVBox白盒** | 2026.07.12 | [下载](https://www.89729981.xyz/posts/yingshi/tvboxbai/) |
+| **TVBox黑盒** | 2026.07.12 | [下载](https://www.89729981.xyz/posts/yingshi/tvboxhei/) |
+| **新影视5.6.9** | 2026.07.12 | [下载](https://www.89729981.xyz/posts/yingshi/xinyingshi/) |
+| **NewBox1.4.0💥** | 2026.07.12 | [下载](https://www.89729981.xyz/posts/yingshi/newbox/) |
+| **FM影视5.5.6💥** | 2026.07.03 | [下载](https://www.89729981.xyz/posts/yingshi/fmys/) |
+| **OK影视Pro** | 2026.06.21 | [下载](https://www.89729981.xyz/posts/yingshi/okpro/) | 
+| **OK影视原版** | 2026.06.21 | [下载](https://www.89729981.xyz/posts/yingshi/okys/) |
+
+> 📺 Tvbox源
 **源导入路径**：`设置` -> `点播`
   复制以下链接填入：
  

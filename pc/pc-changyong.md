@@ -14,6 +14,8 @@
 
 | 软件名称 | 软件简介 | 更新日期 | 资源 |
 | :--- | :--- | :--- | :--- |
+| **KillerPDF** | 14M的本地PDF编辑器 | 2026.07.10 | [下载](https://www.89729981.xyz/posts/260710killerpdf/) |
+| **音乐标签** | 刮削音乐歌词封面等 | 2026.07.09 | [下载](https://www.89729981.xyz/posts/music/musictag/) |
 | **豆包去水印** | 视频、图片去水印 | 2026.06.29 | [下载](https://www.89729981.xyz/posts/260629doubaofree/) |
 | **猫抓** | B站 红书 网页视频下载 | 2026.06.13 | [下载](https://www.89729981.xyz/posts/260613maozhua/) |
 | **wx_video_download** | 微信视频号下载 | 2026.06.06 | [下载](https://www.89729981.xyz/posts/260606wxvd/) |
