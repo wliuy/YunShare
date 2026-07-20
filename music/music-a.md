@@ -9,6 +9,7 @@
 
 | 软件名称 | 更新日期 | 下载 |
 | :--- | :--- | :--- |
+| **柠檬音乐** | 2026.07.20 | [下载](https://www.89729981.xyz/posts/music/nm688/) |
 | **音悦** | 2026.06.24 | [下载](https://www.89729981.xyz/posts/music/yinyue/) |
 | **BiliMusic** | 2026.06.23 | [下载](https://www.89729981.xyz/posts/music/bilimusic2/) |
 | **青听音乐** | 2026.06.23 | [下载](https://www.89729981.xyz/posts/music/qingmusic/) |

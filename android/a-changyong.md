@@ -10,6 +10,7 @@
 
 | 软件名称 | 软件简介 | 更新日期 | 资源 |
 | :--- | :--- | :--- | :--- |
+| **WebToApp** | 网页一键转APP | 2026.07.19 | [下载](https://www.89729981.xyz/posts/20260719webtoapp/) |
 | **小梨听书** | 喜马拉雅平替 | 2026.07.11 | [百度](https://pan.baidu.com/s/1UdwAqkOCXG2UPMC7T-oHTQ?pwd=kw7j) [夸克](https://pan.89729981.xyz/s/xltsqggbhh) |
 | **Mihon** | 漫画、美女套图神器 | 2026.07.02 | [下载](https://www.89729981.xyz/posts/260702mihon/) |
 | **zhihu++** | 知乎第三方仅4M | 2026.06.27 | [百度](https://pan.baidu.com/s/1r24bgoDk2Gec8mUMni2gyw?pwd=aur6) [夸克](https://pan.89729981.xyz/s/zhihu++) |
