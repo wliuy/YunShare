@@ -22,6 +22,13 @@
 
 > ⚠️ 第一步：点击【意见反馈】第二步：输入`D1944`完成切换成影视APP。
 
+
+## 🎬 大马猴影视
+
+### 📥 下载与激活教程
+
+https://dmhyy.com/ios-download-and-nstall-tutorial.html
+
 ---
 ### 🌈 今日份IOS变身软件推荐（20260725）
 
