@@ -291,6 +291,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '安卓好软 💫', link: '/android/a-changyong' },
+          { text: '动漫小说 📖', link: '/android/anime' },
           { text: 'Root 相关', link: '/android/root' }
         ]
       },
