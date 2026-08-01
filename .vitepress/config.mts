@@ -1,4 +1,4 @@
-// Version: 3.16.3 - 优化手机端按键比例：减小气泡宽度，增大垂直间距
+// Version: 4.0.0 - 桌面/手机端按浏览器尺寸自适应，SEO 域名统一为 zy.89729981.xyz
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
@@ -17,9 +17,12 @@ export default defineConfig({
 
   // 🌟 [SEO 优化] 开启自动 Sitemap 生成
   sitemap: {
-    hostname: 'https://89729981.xyz',
+    hostname: 'https://zy.89729981.xyz',
     lastmodDateOnly: false
   },
+
+  // 排除根目录 README.md：避免被当页面构建进站点和 sitemap
+  srcExclude: ['README.md'],
 
   // 页面标识钩子：区分首页与子页
   async transformPageData(pageData) {
@@ -41,13 +44,13 @@ export default defineConfig({
     ['meta', { name: 'keywords', content: '8972资源站,资源分享,绿色资源,安卓影视,ios影视,苹果影视,音乐软件,电脑软件,手机壁纸,免费资源,89729981.xyz' }],
     ['meta', { name: 'author', content: '8972 资源站' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
-    ['link', { rel: 'canonical', href: 'https://89729981.xyz/' }],
+    ['link', { rel: 'canonical', href: 'https://zy.89729981.xyz/' }],
     
     // 🌟 [SEO 优化] Open Graph (社交分享优化)
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: '8972 资源站 | 专注影视音乐绿色软件资源分享' }],
     ['meta', { property: 'og:description', content: '8972资源站提供安卓影视、ios影视、绿色资源及免费软件分享。' }],
-    ['meta', { property: 'og:url', content: 'https://89729981.xyz/' }],
+    ['meta', { property: 'og:url', content: 'https://zy.89729981.xyz/' }],
     ['meta', { property: 'og:site_name', content: '8972 资源站' }],
 
     // 🌟 [SEO 优化] JSON-LD 结构化数据：强行喂给百度 PC 蜘蛛
@@ -57,12 +60,12 @@ export default defineConfig({
       JSON.stringify({
         "@context": "https://schema.org",
         "@type": "WebSite",
-        "url": "https://89729981.xyz/",
+        "url": "https://zy.89729981.xyz/",
         "name": "8972资源站",
         "description": "专注影视音乐及电脑装机软件绿色资源分享",
         "potentialAction": {
           "@type": "SearchAction",
-          "target": "https://89729981.xyz/?s={search_term_string}",
+          "target": "https://zy.89729981.xyz/?s={search_term_string}",
           "query-input": "required name=search_term_string"
         }
       })
@@ -72,7 +75,7 @@ export default defineConfig({
       /* 🌟 [1] 全站净化与基础重置 */
       ::-webkit-scrollbar { display: none; }
       * { scrollbar-width: none; -ms-overflow-style: none; }
-      .VPNavBarAppearance, .VPNavBarHamburger { display: none !important; }
+      .VPNavBarHamburger { display: none !important; }
       
       /* 彻底粉碎返回顶部残留 */
       .VPReturnToTop, .VPLocalNav .top-link, .VPLocalNav .outline-link { 
@@ -81,9 +84,6 @@ export default defineConfig({
         height: 0 !important; 
         overflow: hidden !important; 
       }
-
-      /* 🌟 [2] 强力抹除页脚导航 */
-      .VPDocFooter { display: none !important; visibility: hidden !important; }
 
       /* 🌟 [3] 手机端侧边栏宽度强行锁定 (170px 窄版) */
       @media (max-width: 959px) {
@@ -126,10 +126,75 @@ export default defineConfig({
         min-height: calc(100vh - var(--vp-nav-height)) !important;
         display: flex !important;
         flex-direction: column !important;
-        justify-content: center !important;
+        justify-content: flex-start !important;
         align-items: center !important;
       }
-      .is-home-page .VPHero { display: none !important; }
+
+      /* 🌟 [6.1] 底部平台入口条：导航站 / 博客站 / 四个社交平台（跟随卡片下方，纯文字链接） */
+      .is-home-page .VPHero {
+        display: flex !important;
+        justify-content: center !important;
+        padding: 32px 0 48px !important;
+        margin: 0 !important;
+        order: 10 !important;
+      }
+      .is-home-page .VPHero .container {
+        max-width: 100% !important;
+        padding: 0 !important;
+        display: block !important;
+      }
+      .is-home-page .VPHero .main {
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        width: 100% !important; /* 覆盖默认 2/3 宽，保证按钮真正居中 */
+      }
+      .is-home-page .VPHero .text,
+      .is-home-page .VPHero .name,
+      .is-home-page .VPHero .tagline,
+      .is-home-page .VPHero .image { display: none !important; }
+      .is-home-page .VPHero .actions {
+        display: flex !important;
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+        justify-content: center !important;
+        align-items: center !important;
+        gap: 4px 26px !important;
+        margin: 0 !important;
+        width: 100% !important;
+      }
+      .is-home-page .VPHero .actions .action {
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+      /* 两行布局：第 3 个后强制换行（上面 3 个网址，下面 4 个平台） */
+      .is-home-page .VPHero .actions .action:nth-child(3) { order: 1 !important; }
+      .is-home-page .VPHero .actions .action:nth-child(n+4) { order: 3 !important; }
+      .is-home-page .VPHero .actions::after {
+        content: "" !important;
+        order: 2 !important;
+        flex: 0 0 100% !important;
+        height: 0 !important;
+        margin: 0 !important;
+      }
+      /* 纯文字链接：去掉气泡底色与边框 */
+      .is-home-page .VPHero .VPButton {
+        white-space: nowrap !important;
+        height: auto !important;
+        padding: 0 !important;
+        font-size: 15px !important;
+        font-weight: 500 !important;
+        border-radius: 0 !important;
+        border: none !important;
+        background: transparent !important;
+        color: var(--vp-c-text-2) !important;
+        transition: color 0.2s !important;
+      }
+      .is-home-page .VPHero .VPButton:hover {
+        color: var(--vp-c-brand-1) !important;
+        transform: none !important;
+        box-shadow: none !important;
+      }
 
       /* 核心修复：强行将网格容器宽度撑满 100%，防止被挤压成竖条 */
       .is-home-page .VPFeatures,
@@ -140,14 +205,13 @@ export default defineConfig({
         display: block !important;
       }
 
-      /* 核心：强制开启双列网格 */
+      /* 核心：强制开启双列网格（间距由桌面/手机断点分别覆盖） */
       .is-home-page .VPFeatures .items {
         display: grid !important;
         grid-template-columns: repeat(2, 1fr) !important; /* 稳稳的两列 */
         width: 100% !important;
         max-width: 800px !important; /* 极简气泡不用拉太宽，聚焦居中 */
         margin: 0 auto !important;
-        gap: 24px 20px !important; /* 垂直间距默认拉开到 24px */
         padding: 0 20px !important;
       }
 
@@ -158,69 +222,122 @@ export default defineConfig({
         padding: 0 !important;
       }
 
+      /* 🌟 新卡片设计：圆角图标 + 标题 现代卡片 */
       .is-home-page .VPFeature {
         width: 100% !important;
         border: 1px solid var(--vp-c-divider) !important;
-        background-color: var(--vp-c-bg-soft) !important;
-        border-radius: 16px !important;
+        background: linear-gradient(180deg, var(--vp-c-bg-soft) 0%, var(--vp-c-bg) 100%) !important;
+        border-radius: 14px !important;
         display: block !important;
-        transition: border-color 0.25s, background-color 0.25s !important;
-        padding: 0 !important;
         margin: 0 !important;
+        padding: 0 !important;
+        transition: border-color 0.25s, transform 0.25s, box-shadow 0.25s !important;
       }
       .is-home-page .VPFeature:hover {
-        border-color: var(--vp-c-brand) !important;
+        border-color: var(--vp-c-brand-1) !important;
+        transform: translateY(-3px) !important;
+        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.10) !important;
       }
-
-      /* 气泡盒子对齐设定 */
       .is-home-page .VPFeature .box {
+        position: relative !important;
         display: flex !important;
+        flex-direction: row !important;
         align-items: center !important;
-        justify-content: center !important;
+        justify-content: center !important; /* 气泡内容（图标+文字）整体居中 */
+        gap: 14px !important;
         width: 100% !important;
-        padding: 0 !important; 
+        height: 100% !important;
+        padding: 18px 20px !important;
+        margin: 0 !important;
+      }
+      .is-home-page .VPFeature .icon {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        flex-shrink: 0 !important;
+        width: 46px !important;
+        height: 46px !important;
+        border-radius: 12px !important;
+        background: var(--vp-c-brand-soft) !important;
+        font-size: 22px !important;
+        margin: 0 !important;
+      }
+      .is-home-page .VPFeature .title {
+        font-weight: 700 !important;
+        font-size: 17px !important;
         margin: 0 !important;
         white-space: nowrap !important;
       }
-      
-      .is-home-page .VPFeature .title { 
-        font-weight: 800 !important; 
-        margin: 0 !important; 
+      /* 右侧箭头：hover 淡入 */
+      .is-home-page .VPFeature .box::after {
+        content: "→" !important;
+        position: absolute !important;
+        right: 14px !important;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
+        color: var(--vp-c-brand-1) !important;
+        font-size: 18px !important;
+        font-weight: 700 !important;
+        opacity: 0 !important;
+        transition: opacity 0.2s, transform 0.2s !important;
       }
-      
-      /* 强制极简：彻底隐藏图标和多余的描述文字 */
-      .is-home-page .VPFeature .icon, 
-      .is-home-page .VPFeature .details { 
-        display: none !important; 
+      .is-home-page .VPFeature:hover .box::after {
+        opacity: 1 !important;
+        transform: translateY(-50%) translateX(3px) !important;
       }
+      /* 保留 details 隐藏（SEO 抓取） */
+      .is-home-page .VPFeature .details { display: none !important; }
 
       /* 💻 电脑端布局 */
       @media (min-width: 960px) {
         .VPNavBarMenu { display: none !important; }
+        .is-home-page .VPHome {
+          padding-top: 48px !important;
+          justify-content: center !important;   /* 垂直居中，空白上下均分，随浏览器高度自适应 */
+        }
         .is-home-page .VPNavBarSearch {
           flex-grow: 1 !important;
           display: flex !important;
           justify-content: flex-end !important;
         }
 
-        /* 👇 就是加下面这一段，专门控制电脑端气泡的宽度 👇 */
+        /* 👇 PC 端卡片间距与宽度 👇
+           宽度 = max-content：按所有气泡里最宽内容定宽，不再拉伸填满；
+           repeat(4, 1fr)：4 列均分网格宽度，保证每个气泡严格等宽 */
         .is-home-page .VPFeatures .items { 
-          max-width: 600px !important; /* 👈 修改这里！默认是800px。改成600px气泡就会变窄，改成1000px就会变宽 */
-          gap: 50px 40px !important;
+          max-width: none !important;
+          width: max-content !important;
+          grid-template-columns: repeat(4, 1fr) !important;
+          gap: 20px 20px !important;
         }
+        /* 气泡变窄后，右侧 hover 箭头会与文字重叠，桌面端一并去掉 */
+        .is-home-page .VPFeature .box::after { display: none !important; }
 
-        .is-home-page .VPFeature .box {
-          height: 90px !important; /* PC 端气泡高度 */
+        /* 中高窗口（850~950）适当收紧，避免滚动 */
+        @media (max-height: 950px) {
+          .is-home-page .VPHome { padding-top: 36px !important; }
+          .is-home-page .VPFeatures .items { gap: 14px 20px !important; }
+          .is-home-page .VPFeature .box { padding: 14px 16px !important; }
+          .is-home-page .VPHero { padding: 24px 0 36px !important; }
         }
-        .is-home-page .VPFeature .title { font-size: 24px !important; }
+        /* 矮窗口（≤850，如 1280x800 / 1366x768）进一步压缩，尽量一屏放下 */
+        @media (max-height: 850px) {
+          .is-home-page .VPHome { padding-top: 24px !important; }
+          .is-home-page .VPFeatures .items { gap: 10px 16px !important; }
+          .is-home-page .VPFeature .box { padding: 10px 12px !important; gap: 12px !important; }
+          .is-home-page .VPFeature .icon { width: 38px !important; height: 38px !important; font-size: 18px !important; }
+          .is-home-page .VPFeature .title { font-size: 15px !important; }
+          .is-home-page .VPHero { padding: 16px 0 24px !important; }
+          .is-home-page .VPHero .VPButton { font-size: 14px !important; }
+        }
       }
 
       /* 📱 手机端布局 (针对截图进行间距与宽度优化) */
       @media (max-width: 959px) {
-      /* 👇 新增这一段：控制手机端整体向上对齐 👇 */
+      /* 👇 手机端整体垂直居中：空白在上下均分，不再集中在底部一大片 👇 */
         .is-home-page .VPHome {
-          justify-content: flex-start !important; /* 核心：从居中改为向上对齐 */
-          padding-top: 40px !important;           /* 距离顶部导航栏的留白空间 */
+          justify-content: center !important;      /* 内容整体垂直居中，分辨率自适应 */
+          min-height: calc(100vh - var(--vp-nav-height)) !important;
         }
         .VPNavBarSearch {
           flex-grow: 1 !important;
@@ -231,13 +348,46 @@ export default defineConfig({
         }
 
         .is-home-page .VPFeatures .items {
-          gap: 40px 30px !important;  /* 【核心修改】：垂直行间距增大到 24px，拉开上下距离 */
-          padding: 0 50px !important; /* 【核心修改】：左右留白拉大到 36px，把按钮往中间挤压，变窄变精致 */
+          max-width: none !important;
+          width: max-content !important;                  /* 按最宽内容定宽，气泡不再拉伸 */
+          grid-template-columns: repeat(2, 1fr) !important; /* 2 列均分，所有气泡等宽 */
+          gap: 20px 20px !important;  /* 手机端行列同距，横向间隔与纵向一致 */
+          padding: 0 !important;      /* 内容定宽后不再需要左右留白，靠 margin auto 居中 */
         }
         .is-home-page .VPFeature .box {
-          height: 64px !important; /* 高度稍微收一点，配合变窄的宽度，比例才不会显得像方块 */
+          gap: 10px !important;
+          padding: 10px 14px !important;
         }
-        .is-home-page .VPFeature .title { font-size: 17px !important; }
+        .is-home-page .VPFeature .icon {
+          width: 36px !important;
+          height: 36px !important;
+          border-radius: 9px !important;
+          font-size: 18px !important;
+        }
+        .is-home-page .VPFeature .title { font-size: 14px !important; }
+        .is-home-page .VPFeature .box::after { display: none !important; }
+
+        .is-home-page .VPHero { padding: 24px 0 36px !important; }
+        .is-home-page .VPHero .actions { gap: 4px 18px !important; }
+        .is-home-page .VPHero .VPButton { font-size: 13px !important; }
+
+        /* 中高屏（如 667~736 高度）适当收紧，保证一屏放下 */
+        @media (max-height: 720px) {
+          .is-home-page .VPFeatures .items { gap: 14px 14px !important; }
+          .is-home-page .VPHero { padding: 18px 0 28px !important; }
+        }
+
+        /* 矮屏（老机型）进一步压缩，保证一屏放下 */
+        @media (max-height: 620px) {
+          .is-home-page .VPHome { padding-top: 16px !important; }
+          .is-home-page .VPFeatures .items { gap: 6px 6px !important; }
+          .is-home-page .VPFeature .box { padding: 6px 10px !important; gap: 8px !important; }
+          .is-home-page .VPFeature .icon { width: 30px !important; height: 30px !important; font-size: 16px !important; }
+          .is-home-page .VPFeature .title { font-size: 13px !important; }
+          .is-home-page .VPHero { padding: 12px 0 16px !important; }
+          .is-home-page .VPHero .actions { gap: 2px 14px !important; }
+          .is-home-page .VPHero .VPButton { font-size: 12px !important; }
+        }
 
         .is-sub-page .VPNavBarSocialLinks {
           display: flex !important;
@@ -255,6 +405,41 @@ export default defineConfig({
         .is-sub-page .VPNavBarSocialLinks { 
           display: flex !important; 
           margin-right: 20px;
+        }
+      }
+
+      /* 🌟 [8] 修复内容页导航 hydration 闪动
+         SSR 渲染的 VPNavBar 缺少 has-sidebar 类，刷新后类才加上 → 布局突变、搜索框跳位。
+         这里让子页在 SSR 首帧就套用 has-sidebar 布局，杜绝闪动。 */
+      @media (min-width: 960px) {
+        .is-sub-page .VPNavBar .wrapper { padding: 0 !important; }
+        .is-sub-page .VPNavBar .container { max-width: 100% !important; }
+        .is-sub-page .VPNavBar .title:not(a) {
+          position: absolute !important;
+          top: 0 !important;
+          left: 0 !important;
+          z-index: 2 !important;
+          padding: 0 32px !important;
+          width: var(--vp-sidebar-width) !important;
+          height: var(--vp-nav-height) !important;
+          background-color: transparent !important;
+        }
+        .is-sub-page .VPNavBar .content {
+          position: relative !important;
+          z-index: 1 !important;
+          padding-right: 32px !important;
+          padding-left: var(--vp-sidebar-width) !important;
+        }
+        .is-sub-page .VPNavBar .divider { padding-left: var(--vp-sidebar-width) !important; }
+      }
+      @media (min-width: 1440px) {
+        .is-sub-page .VPNavBar .title:not(a) {
+          padding-left: max(32px, calc((100% - (var(--vp-layout-max-width) - 64px)) / 2)) !important;
+          width: calc((100% - (var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px) !important;
+        }
+        .is-sub-page .VPNavBar .content {
+          padding-right: calc((100vw - var(--vp-layout-max-width)) / 2 + 32px) !important;
+          padding-left: calc((100vw - var(--vp-layout-max-width)) / 2 + var(--vp-sidebar-width)) !important;
         }
       }
 

@@ -8,4 +8,4 @@ User-agent: Baiduspider
 Allow: /
 
 # 🌟 告诉百度你的站点地图在哪里
-Sitemap: https://89729981.xyz/sitemap.xml
+Sitemap: https://zy.89729981.xyz/sitemap.xml
