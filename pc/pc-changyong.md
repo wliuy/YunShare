@@ -14,6 +14,11 @@
 
 | 软件名称 | 软件简介 | 更新日期 | 资源 |
 | :--- | :--- | :--- | :--- |
+| **MiMo-TTS** | 免费声音克隆 | 2026.08.07 | [下载](https://www.89729981.xyz/posts/260807mimotts/) |
+| **MediaDownloader** | 抖音批量下载 | 2026.08.04 | [下载](https://www.89729981.xyz/posts/260804mediadl/) |
+| **PinToDesk** | 桌面便签工具 | 2026.07.29 | [下载](https://www.89729981.xyz/posts/260729pintodesk/) |
+| **OBS Studio** | 录屏软件 | 2026.07.24 | [下载](https://www.89729981.xyz/posts/260724obs/) |
+| **MiMo-TTS** | 免费声音克隆 | 2026.08.07 | [下载](https://www.89729981.xyz/posts/260807mimotts/) |
 | **KillerPDF** | 14M的本地PDF编辑器 | 2026.07.10 | [下载](https://www.89729981.xyz/posts/260710killerpdf/) |
 | **音乐标签** | 刮削音乐歌词封面等 | 2026.07.09 | [下载](https://www.89729981.xyz/posts/music/musictag/) |
 | **豆包去水印** | 视频、图片去水印 | 2026.06.29 | [下载](https://www.89729981.xyz/posts/260629doubaofree/) |

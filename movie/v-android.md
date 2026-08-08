@@ -20,8 +20,8 @@
 
 | 软件名称 | 更新日期 | 下载 |
 | :--- | :--- | :--- |
+| **Sparkle💥** | 2026.08.08 | [百度](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) [夸克](https://pan.89729981.xyz/s/sparkle) |
 | **帧不戳5.0.0** | 2026.07.25 | [下载](https://www.89729981.xyz/posts/yingshi/zhenbucuo4k/) |
-| **Sparkle💥** | 2026.07.25 | [百度](https://pan.baidu.com/s/1-JAftSlAHvv0NZtVNwTD5w?pwd=52pj) [夸克](https://pan.89729981.xyz/s/sparkle) |
 | **4K影视6.0.3** | 2026.07.25 | [下载](https://www.89729981.xyz/posts/yingshi/4kyingshi/) |
 | **剧岛2.1.1** | 2026.07.25 | [下载](https://www.89729981.xyz/posts/yingshi/judao/) |
 | **彩虹视频4.3.5** | 2026.07.25 | [下载](https://www.89729981.xyz/posts/yingshi/caihong/) |
@@ -44,11 +44,12 @@
 
 | 软件名称 | 更新日期 | 下载 |
 | :--- | :--- | :--- |
+| **NewBox1.8.6💥** | 2026.08.08 | [下载](https://www.89729981.xyz/posts/yingshi/newbox/) |
+| **FM影视5.6.0💥** | 2026.08.08 | [下载](https://www.89729981.xyz/posts/yingshi/fmys/) |
+| **OK影视原版** | 2026.08.08 | [下载](https://www.89729981.xyz/posts/yingshi/okys/) | 
 | **新影视5.6.9** | 2026.07.12 | [下载](https://www.89729981.xyz/posts/yingshi/xinyingshi/) |
-| **NewBox1.5.1💥** | 2026.07.25 | [下载](https://www.89729981.xyz/posts/yingshi/newbox/) |
-| **FM影视5.5.6💥** | 2026.07.03 | [下载](https://www.89729981.xyz/posts/yingshi/fmys/) |
 | **OK影视Pro** | 2026.06.21 | [下载](https://www.89729981.xyz/posts/yingshi/okpro/) | 
-| **OK影视原版** | 2026.06.21 | [下载](https://www.89729981.xyz/posts/yingshi/okys/) | 
+
 
 
 >  ✨ **影视源导入路径**：`设置` -> `点播`
