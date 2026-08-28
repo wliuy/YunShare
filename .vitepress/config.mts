@@ -196,12 +196,13 @@ export default defineConfig({
         box-shadow: none !important;
       }
 
-      /* 核心修复：强行将网格容器宽度撑满 100%，防止被挤压成竖条 */
+      /* 核心修复：强行将网格容器宽度撑满 100%，防止被挤压成竖条
+         margin: auto 让卡片组吸收剩余垂直空间，实现「公告条置顶、卡片组在其下方垂直居中」 */
       .is-home-page .VPFeatures,
       .is-home-page .VPFeatures .container {
         width: 100% !important;
         padding: 0 !important;
-        margin: 0 auto !important;
+        margin: auto !important;
         display: block !important;
       }
 
@@ -292,8 +293,8 @@ export default defineConfig({
       @media (min-width: 960px) {
         .VPNavBarMenu { display: none !important; }
         .is-home-page .VPHome {
-          padding-top: 48px !important;
-          justify-content: center !important;   /* 垂直居中，空白上下均分，随浏览器高度自适应 */
+          padding-top: 0 !important;
+          justify-content: flex-start !important;   /* 公告条紧贴顶部，卡片组靠 auto margin 在下半区垂直居中 */
         }
         .is-home-page .VPNavBarSearch {
           flex-grow: 1 !important;
@@ -315,14 +316,14 @@ export default defineConfig({
 
         /* 中高窗口（850~950）适当收紧，避免滚动 */
         @media (max-height: 950px) {
-          .is-home-page .VPHome { padding-top: 36px !important; }
+          .is-home-page .VPHome { padding-top: 0 !important; }
           .is-home-page .VPFeatures .items { gap: 14px 20px !important; }
           .is-home-page .VPFeature .box { padding: 14px 16px !important; }
           .is-home-page .VPHero { padding: 24px 0 36px !important; }
         }
         /* 矮窗口（≤850，如 1280x800 / 1366x768）进一步压缩，尽量一屏放下 */
         @media (max-height: 850px) {
-          .is-home-page .VPHome { padding-top: 24px !important; }
+          .is-home-page .VPHome { padding-top: 0 !important; }
           .is-home-page .VPFeatures .items { gap: 10px 16px !important; }
           .is-home-page .VPFeature .box { padding: 10px 12px !important; gap: 12px !important; }
           .is-home-page .VPFeature .icon { width: 38px !important; height: 38px !important; font-size: 18px !important; }
@@ -336,7 +337,7 @@ export default defineConfig({
       @media (max-width: 959px) {
       /* 👇 手机端整体垂直居中：空白在上下均分，不再集中在底部一大片 👇 */
         .is-home-page .VPHome {
-          justify-content: center !important;      /* 内容整体垂直居中，分辨率自适应 */
+          justify-content: flex-start !important;      /* 公告条紧贴顶部，卡片组往下垂直居中 */
           min-height: calc(100vh - var(--vp-nav-height)) !important;
         }
         .VPNavBarSearch {
@@ -379,7 +380,7 @@ export default defineConfig({
 
         /* 矮屏（老机型）进一步压缩，保证一屏放下 */
         @media (max-height: 620px) {
-          .is-home-page .VPHome { padding-top: 16px !important; }
+          .is-home-page .VPHome { padding-top: 0 !important; }
           .is-home-page .VPFeatures .items { gap: 6px 6px !important; }
           .is-home-page .VPFeature .box { padding: 6px 10px !important; gap: 8px !important; }
           .is-home-page .VPFeature .icon { width: 30px !important; height: 30px !important; font-size: 16px !important; }
